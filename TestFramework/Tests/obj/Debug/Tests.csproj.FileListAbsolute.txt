@@ -1,0 +1,10 @@
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\bin\Debug\Tests.dll
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\bin\Debug\Tests.pdb
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\bin\Debug\TestFramework.dll
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\bin\Debug\WebDriver.dll
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\bin\Debug\TestFramework.pdb
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\bin\Debug\WebDriver.xml
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\obj\Debug\Tests.dll
+C:\Dev\TestSelenium\TestFramework\TestFramework\Tests\obj\Debug\Tests.pdb
